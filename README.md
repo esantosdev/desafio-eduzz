@@ -1,7 +1,7 @@
 # desafio-eduzz
 Desafios do Bootcamp Eduzz
 
-O que fiz até o momento
+O que fiz até o momento <br>
 Treinar dimensões, bordas e formas. 
 
 
