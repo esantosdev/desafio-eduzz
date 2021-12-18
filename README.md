@@ -2,7 +2,10 @@
 Desafios do Bootcamp Eduzz
 
 O que fiz até o momento
-Praticar conceitos de HTML, CSS e JS (de acordo com o curso e consultando fontes externas)
+Treinar dimensões, bordas e formas. 
 
-[![Captura-de-tela-em-2021-12-17-14-01-05.png](https://i.postimg.cc/vm5dvFGx/Captura-de-tela-em-2021-12-17-14-01-05.png)](https://postimg.cc/QBNPXz9j)
+[url=https://postimg.cc/py9p08bq][img]https://i.postimg.cc/py9p08bq/Captura-de-tela-em-2021-12-18-11-09-21.png[/img][/url]
+
+[url=https://postimg.cc/D4b08Vdt][img]https://i.postimg.cc/D4b08Vdt/orgulho.png[/img][/url]
+
 
