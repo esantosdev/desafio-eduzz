@@ -4,14 +4,8 @@
 Desafios do Bootcamp Eduzz
 
 O que fiz até o momento <br>
-Treinar dimensões, bordas e formas. 
 
+Adicionar mais itens à seção habilidades, melhoras posicionamento de elementos e criar seção projetos (a realizar commit)
 
-[![orgulho.png](https://i.postimg.cc/Y0dWDM4q/orgulho.png)](https://postimg.cc/D4b08Vdt) <br>
-
-<h2> Parte 2 </h2> <br>
-
-
-[![Captura-de-tela-em-2021-12-18-11-09-21.png](https://i.postimg.cc/2jGhSFHR/Captura-de-tela-em-2021-12-18-11-09-21.png)](https://postimg.cc/py9p08bq)
-
+[![Captura-de-tela-em-2021-12-22-11-35-08.png](https://i.postimg.cc/zBLpF3v2/Captura-de-tela-em-2021-12-22-11-35-08.png)](https://postimg.cc/7GkgxHgS)
 
