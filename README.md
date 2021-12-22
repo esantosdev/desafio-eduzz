@@ -6,7 +6,9 @@ Desafios do Bootcamp Eduzz
 
 O que fiz até o momento <br>
 
-Adicionar mais itens à seção habilidades, melhoras posicionamento de elementos e criar seção projetos (a realizar commit)
+Adicionar a seção projetos e estilizar <br>
+A fazer: adicionar links ao footer e aos cards de projeto.
 
-[![Captura-de-tela-em-2021-12-22-11-35-08.png](https://i.postimg.cc/zBLpF3v2/Captura-de-tela-em-2021-12-22-11-35-08.png)](https://postimg.cc/7GkgxHgS)
+[![Captura-de-tela-em-2021-12-22-15-54-56.png](https://i.postimg.cc/1XNPp571/Captura-de-tela-em-2021-12-22-15-54-56.png)](https://postimg.cc/Fkm2vmQT)
 
+[![parte-2.png](https://i.postimg.cc/sx0mR33x/parte-2.png)](https://postimg.cc/9wZZd5RH)
