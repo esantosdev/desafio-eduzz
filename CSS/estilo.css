@@ -61,6 +61,13 @@ h4{
   text-align: center;
 }
 
+button{
+  background-color: lime;
+  border: 1px solid white;
+  border-radius: 1px;
+  font-size: 24px;
+}
+
 a{
   text-decoration: none;
   color: black;
@@ -73,7 +80,7 @@ p{
   text-align: center;
 }
 
-.fa-github, .fa-linkedin {
+.fa-github, .fa-linkedin, .fa-envelope-open-text {
   font-size: 25px;
 }
 
