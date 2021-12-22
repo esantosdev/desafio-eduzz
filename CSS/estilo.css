@@ -66,6 +66,10 @@ p{
   text-align: center;
 }
 
+.fa-github, .fa-linkedin {
+  font-size: 25px;
+}
+
 li{
   list-style-type: none;
 }
