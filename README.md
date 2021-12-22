@@ -1,4 +1,5 @@
 ** Modéstia a parte, consegui deixar bem responsivo xD ** <br>
+** Não deixe de conferir o portfólio hospedado no Vercel: https://desafio-eduzz.vercel.app/ **
 
 # desafio-eduzz
 Desafios do Bootcamp Eduzz
