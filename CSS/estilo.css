@@ -12,17 +12,24 @@ audio{
   background-color: red;
 }
 
-h1, h2, h3{
+h1 {
     text-align: center;
     color: yellow;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 28px;
+    font-size: 38px;
+}
+
+h2, h3{
+  text-align: center;
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
 }
 
 h4{
   color: black;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 25px;
+  font-size: 20px;
   text-align: center;
 }
 
@@ -46,7 +53,7 @@ h4{
 }
 
 .footer {
-  height: 90px;
+  height: 150px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bolder;
   color: black;
@@ -109,4 +116,27 @@ li{
 
 .badges{
   display: inline-block;
+}
+
+
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-gap: 20px;
+  align-items: stretch;
+  background-color: black;
+}
+
+.grid > article {
+  border: 1px solid #ccc;
+  box-shadow: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+}
+
+.grid > article img {
+  max-width: 100%;
+}
+
+.grid .text {
+  padding: 20px;
 }
