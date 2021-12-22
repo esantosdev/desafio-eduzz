@@ -1,3 +1,5 @@
+** Modéstia a parte, consegui deixar bem responsivo xD ** <br>
+
 # desafio-eduzz
 Desafios do Bootcamp Eduzz
 
