@@ -5,7 +5,7 @@
 Desafios do Bootcamp Eduzz
 
 O que fiz até o momento <br>
-Terminar o que planejei para o portfólio (até o momento) <br>
+Terminar o que planejei para o portfólio (até onde eu defini) <br>
 Boas festas a todos, que agora vou descansar
 
 [![Captura-de-tela-em-2021-12-22-15-54-56.png](https://i.postimg.cc/1XNPp571/Captura-de-tela-em-2021-12-22-15-54-56.png)](https://postimg.cc/Fkm2vmQT)
