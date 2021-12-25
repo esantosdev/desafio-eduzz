@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&family=Righteous&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Monoton&family=Mukta:wght@300&display=swap');
 * {
     box-sizing: border-box;
 }
@@ -12,11 +11,15 @@ body{
 
 
 h1 {
-    text-align: center;
-    color: #FFFF86;
-    font-family: 'Mukta', sans-serif;
-    font-size: 38px;
-    font-weight: bolder;
+  font-size: 80px;
+	font-weight: 700;
+  font-family: 'Muka', sans-serif;
+  text-align: center;
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+	background-image: url('https://as2.ftcdn.net/v2/jpg/02/72/89/11/1000_F_272891182_xOUBu6DIAfcjJXKVLbouYmtF8krMBnWy.jpg');
+   
 }
 
 h2, h3{
